@@ -4,6 +4,8 @@
 ## Dataset Link : 
 https://drive.google.com/file/d/1qanyuwEzkwEJ73vDJHk4ZlWE0JUG7udb/view
 
+Key tasks include handling missing values, fixing merged columns, standardizing naming conventions, removing irrelevant data, and ensuring consistency in data types. This project highlights data preprocessing techniques to prepare datasets for insightful analysis
+
 # Questions for Data Cleaning:
 
 ## 1. Identify and Handle Missing Values:
